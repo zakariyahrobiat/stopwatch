@@ -7,10 +7,15 @@
 body{
     background-color: black;
     font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 p{
-    background-color: white;
-    font-size: 50px;
+    /* background-color: white; */
+    color: white;
+    font-size: 100px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
